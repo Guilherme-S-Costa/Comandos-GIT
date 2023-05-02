@@ -7,3 +7,5 @@ git status - para verificar quais mudanças serão submetidas ao commit.
 git commit -m '' - preparar o commit e escrever uma mensagem. 
 
 git branch -M 'nome da nova master'. - comando para renomear a main.
+
+git checkout -b 'nome da branch'.
